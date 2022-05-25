@@ -18,3 +18,6 @@
 
 # File: 6-firstdirectory
 	A script that creates a directory in /tmp directory
+
+# File: 7-movethatfile
+	A script that moves a file betty from /tmp/ to /tmp/my_first_directory

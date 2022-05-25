@@ -15,3 +15,6 @@
 
 # File: 5-listfilesdigitonly
 	A script that lists content of the current directory including hidden files in long format with user and group IDs displayed numerically
+
+# File: 6-firstdirectory
+	A script that creates a directory in /tmp directory

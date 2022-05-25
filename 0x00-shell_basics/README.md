@@ -24,3 +24,6 @@
 
 # File: 8-firstdelete
 	A script that deletes a file betty
+
+#File: 9-firstdirdeletion
+	A script that deletes a directory /tmp/my_first_directory

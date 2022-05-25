@@ -9,3 +9,6 @@
 
 # File: 3-listfiles
 	A script that lists content of the current working directory in long format
+
+# File: 4-listmorefiles
+	A script that lists content of the current directory including hidden files in long format

@@ -12,3 +12,6 @@
 
 # File: 4-listmorefiles
 	A script that lists content of the current directory including hidden files in long format
+
+# File: 5-listfilesdigitonly
+	A script that lists content of the current directory including hidden files in long format with user and group IDs displayed numerically

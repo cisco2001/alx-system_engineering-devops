@@ -32,4 +32,7 @@
 	A script that changes a working directory to the previous one
 
 # File: 11-lists
-	A script that lists files in ./ ../ and /boot/ 
+	A script that lists files in ./ ../ and /boot/
+
+# File: 14-copy_html
+	A script that  copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. 

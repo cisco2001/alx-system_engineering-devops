@@ -30,3 +30,6 @@
 
 # File: 10-back
 	A script that changes a working directory to the previous one
+
+# File: 11-lists
+	A script that lists files in ./ ../ and /boot/ 

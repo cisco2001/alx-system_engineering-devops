@@ -12,3 +12,6 @@
 
 # File: 4-empty
 	contains a script that creates an empty file called hello.
+
+# File: 5-execute
+	contains a script that adds execute permission to the owner of the file hello

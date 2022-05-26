@@ -24,3 +24,6 @@
 
 # File: 8-James_Bond
 	contains a script that sets the permission to the file hello
+
+# File: 9-John_Doe
+	contains a script that sets the mode of the file hello to -rwxr-x-wx

@@ -9,3 +9,6 @@
 
 # File: 3-new_owner
 	contains a script that changes the owner of the file hello to the user betty
+
+# File: 4-empty
+	contains a script that creates an empty file called hello.

@@ -21,3 +21,6 @@
 
 # File: 7-everybody
 	contains  a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+# File: 8-James_Bond
+	contains a script that sets the permission to the file hello

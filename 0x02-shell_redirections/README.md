@@ -32,4 +32,7 @@
 	contains script that reverse input
 
 # File:  20-hiago
-	contains script that deltes characters 
+	contains script that deltes characters
+
+# File: 19-AZ
+	contains script that replaces characters 

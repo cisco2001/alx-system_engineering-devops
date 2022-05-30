@@ -48,3 +48,6 @@
 
 # File: 15-countthatword
 	script that counts number of lines with "bin"
+
+# File: 16-whatsnext
+	script that shows whatsnext

@@ -23,4 +23,7 @@
 	contains script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending 	by a new line.
 
 # File: ls_cwd_content
-	contains script that redirects output of ls -la 
+	contains script that redirects output of ls -la
+
+# File: 9-duplicate_last_line 
+	contains script that duplicates the last line of the file iacta 

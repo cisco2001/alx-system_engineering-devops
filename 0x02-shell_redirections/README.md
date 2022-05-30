@@ -42,3 +42,6 @@
 
 # File: 13-unique
 	script that prints only unique words line by line 
+
+# File: 14-findthatword
+	script that find all lines with "root"

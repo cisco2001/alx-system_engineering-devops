@@ -29,4 +29,7 @@
 	contains script that duplicates the last line of the file iacta
 
 # File: 21-reverse
-	contains script that reverse input 
+	contains script that reverse input
+
+# File:  20-hiago
+	contains script that deltes characters 

@@ -18,3 +18,6 @@
 
 # File: 6-third_line
 	contains script that displays line 3 of file iacta
+
+# File: 7-file
+	contains script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending 	by a new line.

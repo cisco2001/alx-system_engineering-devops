@@ -51,3 +51,6 @@
 
 # File: 16-whatsnext
 	script that shows whatsnext
+
+# File: 17-hidethisword
+	script that prints all lines with no "bin"

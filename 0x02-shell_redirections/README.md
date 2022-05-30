@@ -9,3 +9,6 @@
 
 # File: 3-twofiles
 	contains a script that displays the content of /etc/passwd and /etc/hosts
+
+# File: 4-lastlines
+	contains a script that displays last 10 lines of /etc/passwd

@@ -26,4 +26,7 @@
 	contains script that redirects output of ls -la
 
 # File: 9-duplicate_last_line 
-	contains script that duplicates the last line of the file iacta 
+	contains script that duplicates the last line of the file iacta
+
+# File: 21-reverse
+	contains script that reverse input 

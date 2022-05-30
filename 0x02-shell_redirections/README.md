@@ -15,3 +15,6 @@
 
 # File: 5-firstlines
 	contains script that displays first 10 lines of /etc/passwd
+
+# File: 6-third_line
+	contains script that displays line 3 of file iacta

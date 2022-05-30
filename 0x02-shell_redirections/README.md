@@ -38,4 +38,7 @@
 	contains script that replaces characters
 
 # File: 12-newest_files
-	a script that prints 10 newest files in current directory 
+	a script that prints 10 newest files in current directory
+
+# File: 13-unique
+	script that prints only unique words line by line 

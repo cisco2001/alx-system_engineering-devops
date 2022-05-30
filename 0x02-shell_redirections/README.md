@@ -12,3 +12,6 @@
 
 # File: 4-lastlines
 	contains a script that displays last 10 lines of /etc/passwd
+
+# File: 5-firstlines
+	contains script that displays first 10 lines of /etc/passwd

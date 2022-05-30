@@ -6,3 +6,6 @@
 
 # File: 2-hellofile
 	contains a script that displays the content of the /etc/passwd file.
+
+# File: 3-twofiles
+	contains a script that displays the content of /etc/passwd and /etc/hosts

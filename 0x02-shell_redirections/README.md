@@ -21,3 +21,6 @@
 
 # File: 7-file
 	contains script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending 	by a new line.
+
+# File: ls_cwd_content
+	contains script that redirects output of ls -la 

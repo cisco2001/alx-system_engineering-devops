@@ -45,3 +45,6 @@
 
 # File: 14-findthatword
 	script that find all lines with "root"
+
+# File: 15-countthatword
+	script that counts number of lines with "bin"

@@ -28,6 +28,9 @@
 # File: 9-duplicate_last_line 
 	contains script that duplicates the last line of the file iacta
 
+# File: 10-no_more_js
+	script to delete files with .js extension
+
 # File: 21-reverse
 	contains script that reverse input
 

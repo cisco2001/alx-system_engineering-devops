@@ -54,3 +54,6 @@
 
 # File: 17-hidethisword
 	script that prints all lines with no "bin"
+
+# File 100-empty_casks
+	script that lists empty files
